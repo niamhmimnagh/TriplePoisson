@@ -1,4 +1,7 @@
- # This script simulates data for the triple Poisson model, and fits the model with both a Poisson and negative binomial distribution on observed occupancy.
+# Mimnagh et al.
+# A Bayesian Model to Estimate Abundance Based on Scarce Animal Vestige Data
+# https://doi.org/10.48550/arXiv.2206.05944
+# This script simulates data for the triple Poisson model, and fits the model with both a Poisson and negative binomial distribution on observed occupancy.
  # The models are then compared using DIC values.
 
 library(R2jags)
