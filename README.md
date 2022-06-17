@@ -1,5 +1,7 @@
-## Mimnagh et al.,  "A Bayesian Model to Estimate Abundance Based on Scarce Animal Vestige Data"
+### Mimnagh et al.,   "A Bayesian Model to Estimate Abundance Based on Scarce Animal Vestige Data"
+https://doi.org/10.48550/arXiv.2206.05944
 
+### R Files
 triple_poisson.R contains code to simulate data for the triple Poisson model, fits both the model with both Poisson and negative binomial distributions on the observed abundances and compares the two models using DIC values as was performed for the case studies.
 
 triple_poisson_simulation.R contains functions which were used to carry out simulation studies, and calculate the mean relative bias in the estimates.
