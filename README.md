@@ -11,6 +11,7 @@ This study presents a Bayesian model designed to estimate animal abundance from 
 * triple_poisson_simulation.R: This file includes functions used to conduct simulation studies that assess the performance of the model. The functions calculate the mean relative bias in abundance estimates, enabling a quantitative evaluation of the model’s accuracy and reliability under different scenarios.
 
 
+
 ### Datasets
 
 The study utilises datasets from real-world case studies to demonstrate the application of the model:
